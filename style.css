@@ -1,0 +1,41 @@
+#title{
+  text-align:center;
+}
+#intro{
+  padding:50px;
+  text-align:center;
+}
+#section1{
+  
+}
+
+#section2{
+text-align:center;
+ margin-top:-585px;
+}
+#section3{
+  margin-top:-605px;
+  text-align:right;
+  padding:50px;
+}
+#section5{
+  text-align:center;
+  margin-top:-585px;
+}
+#section6{
+  text-align:right;
+  margin-top:-605px;
+  padding: 50px;
+}
+#credits{
+  text-align:center;
+  margin-top:190px;
+}
+
+.scratch{
+  margin-top:150px;
+}
+
+.art{
+  margin-top:220px;
+}
